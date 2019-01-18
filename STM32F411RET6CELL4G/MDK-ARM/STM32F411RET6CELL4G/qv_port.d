@@ -1,0 +1,12 @@
+stm32f411ret6cell4g\qv_port.o: ..\QPC\qv_port\qv_port.c
+stm32f411ret6cell4g\qv_port.o: ..\QPC\qv_port\qf_port.h
+stm32f411ret6cell4g\qv_port.o: ..\QPC\qv_port\qep_port.h
+stm32f411ret6cell4g\qv_port.o: D:\keilarm\ARM\ARMCC\Bin\..\include\stdint.h
+stm32f411ret6cell4g\qv_port.o: D:\keilarm\ARM\ARMCC\Bin\..\include\stdbool.h
+stm32f411ret6cell4g\qv_port.o: ..\QPC\include\qep.h
+stm32f411ret6cell4g\qv_port.o: ..\QPC\qv_port\qv_port.h
+stm32f411ret6cell4g\qv_port.o: ..\QPC\include\qv.h
+stm32f411ret6cell4g\qv_port.o: ..\QPC\include\qequeue.h
+stm32f411ret6cell4g\qv_port.o: ..\QPC\include\qmpool.h
+stm32f411ret6cell4g\qv_port.o: ..\QPC\include\qpset.h
+stm32f411ret6cell4g\qv_port.o: ..\QPC\include\qf.h
