@@ -135,14 +135,14 @@ int main(void)
   /* USER CODE END WHILE */
 
   /* USER CODE BEGIN 3 */
-  // IRD_State = HAL_GPIO_ReadPin(IRD_GPIO_Port,IRD_Pin);//
-  // if(IRD_State == 0)
-  // {
-  // 	HAL_GPIO_WritePin(LED0_GPIO_Port, LED0_Pin, GPIO_PIN_SET);
-  // 	HAL_Delay(200);
-  // 	HAL_GPIO_WritePin(LED0_GPIO_Port, LED0_Pin, GPIO_PIN_RESET);
-  // }
-  //  }
+   /*IRD_State = HAL_GPIO_ReadPin(IRD_GPIO_Port,IRD_Pin);//
+   if(IRD_State == 0)
+   {
+   	HAL_GPIO_WritePin(LED0_GPIO_Port, LED0_Pin, GPIO_PIN_SET);
+   	HAL_Delay(200);
+   	HAL_GPIO_WritePin(LED0_GPIO_Port, LED0_Pin, GPIO_PIN_RESET);
+   }
+    }*/
   /* USER CODE END 3 */
 }
 
