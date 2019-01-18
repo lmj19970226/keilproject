@@ -107,7 +107,7 @@ int main(void)
   MX_ADC1_Init();
   /* USER CODE BEGIN 2 */
 #if DEBUG
-  printf("hello word!\r\n");
+  printf("hello !\r\n");
 #endif
   uart = uart_Driver_Init();
   uart->Uart_idle_init();
